@@ -10,13 +10,7 @@ const PrivacyPolicy = () => {
         <p>
           <strong>1. Introduction</strong>
           <br />
-          Welcome to MarathiSarvaPooja.com! This Privacy Policy outlines how we
-          handle and protect your personal information when you use our website.
-          This policy is in accordance with the relevant laws and regulations,
-          including the Information Technology Act, 2000, and its amendments. It
-          applies solely to MarathiSarvaPooja.com and is subject to applicable
-          laws. By using our website, you consent to the terms described in this
-          Privacy Policy.
+          Performing an online puja, also known as a virtual puja, has become increasingly popular for those unable to attend in person due to distance, time constraints, or other reasons.
         </p>
         <p>
           <strong>2. Information We Collect</strong>
