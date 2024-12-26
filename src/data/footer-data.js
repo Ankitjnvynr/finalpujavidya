@@ -3,12 +3,12 @@ import logo from "../assets/logo.png";
 export const footerData = {
   logo,
   footer_details: ` Performing an online puja, also known as a virtual puja, has become increasingly popular for those unable to attend in person due to distance, time constraints, or other reasons.`,
-  number: "8708042248",
+  number: "918708042248",
   email: "info@bigbytemeta.com",
   address: `plot no 151 sector -2 kkr`,
   fb_link: "https://www.fb.com",
   insta_link: "https://www.instagram.com/",
-  whatsapp: "8708042248",
+  whatsapp: "918708042248",
   main_links: [
     { title: "Home", link: "/" },
     { title: "Our Journey", link: "/" },
