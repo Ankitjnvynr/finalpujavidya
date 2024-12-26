@@ -6,14 +6,14 @@ export const contactData = {
   info: {
     head: "Talk to us",
     para: "Unsure about how it Works? Do you have questions or require further information? Let's initiate a conversation.",
-    phoneNo: "7899148582",
-    email: "marathisarvapooja@gmail.com",
-    address: "No. 123, 15th Cross Rd, Ittamadu, Banashankari 3rd Stage, Hosakerehalli, Bengaluru, Karnataka 560085",
+    phoneNo: "9728237110",
+    email: "info@bigbyteworld.com",
+    address: "plot no 151 sector -2 kkr",
   },
   // these links must include https:// in front
   socialMedia: {
     whatsapp: whatsappData,
     fb: "https://www.fb.com",
-    insta: "https://www.instagram.com/marathisarvapooja/",
+    insta: "https://www.instagram.com/",
   },
 };
