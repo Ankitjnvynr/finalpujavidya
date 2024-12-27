@@ -28,7 +28,7 @@ const AboutUs = () => {
         <p>{ownerData.languageDescription}</p>
       </div>
       <Link className="learn-more-link" to="/">
-        learn more about my journey...
+        Here we are ...
       </Link>
     </section>
   );
