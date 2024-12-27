@@ -27,7 +27,7 @@ const AboutUs = () => {
         <h4>{ownerData.languageSubheading}</h4>
         <p>{ownerData.languageDescription}</p>
       </div>
-      <Link className="learn-more-link" to="about-us">
+      <Link className="learn-more-link" to="/">
         learn more about my journey...
       </Link>
     </section>
