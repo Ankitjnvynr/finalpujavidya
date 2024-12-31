@@ -2,7 +2,7 @@ const ownerData = {
   
   yearsOfExperience: "15+",
   subheading: "Years of Experience",
-  yearDescription: "in South Kashi’s famous Gokarna mahabaleshwaram and Bangalore",
+  yearDescription: "in famous pujas at bhramsarovar",
 
   happyClients: "11K+",
   clientsubheading: "Pujas Performed",
