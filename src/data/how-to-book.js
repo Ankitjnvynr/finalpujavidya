@@ -16,7 +16,7 @@ export const howToBookTimeline = [
     img: { src: select2, alt: "whatsapp Icon" },
     timeline_dot_color: "primary",
     title: "Talk on WhatsApp",
-    description: "Talk to us on whatsapp for further details",
+    description: "Talk to us on whatsapp for further details and we will conduct online puja for you",
   },
   {
     id: 3,
